@@ -1,0 +1,8 @@
+1) runbot (2 раза)
+2) создаем бота в дискорде
+3) create user ID
+4) токен в токен (options)
+5) ownerid - айди владельца \@Xilo (нужны только цифры)
+6) whitelist добавить человеков, которые могут контроллировать бота
+7) runbot
+8) приглашение на сервер https://discordapp.com/oauth2/authorize?&client_id=297107834716422144&scope=bot (вместо циферек ClientID)
